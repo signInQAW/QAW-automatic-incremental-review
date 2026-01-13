@@ -1,1 +1,1 @@
-Raedme for automatci incremental review
+Readme for automatic incremental review
